@@ -109,13 +109,13 @@ Contains debate examples used for testing and evaluating the system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ADRIANDARYL/Speak-Debate-Rebuttal-Predictor.git
+git clone https://github.com/codewithmarcelle/Speak.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd Speak-Debate-Rebuttal-Predictor
+cd
 ```
 
 ### 2. Create a Virtual Environment
